@@ -1,1 +1,2 @@
 Meine erste Git-Uebung
+Ich lerne Git.
